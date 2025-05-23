@@ -1,0 +1,210 @@
+[1] "### UK - ASH2024/STS2023 ###"
+[1] "-------------------------------------------------------------"
+[1] "## A. TO WHAT EXTENT DO FLAVOURS DRAW IN NON_SMOKING YOUTH ##"
+[1] "-------------------------------------------------------------"
+[1] "# A.b. Non-smoking youth #"
+[1] "--------------------------"
+[1] "ASH Non-smoking youth"
+[1] 2235
+[1] "Weight"
+[1] 1.007222
+[1] "STS Non-smoking youth"
+[1] 405
+[1] "Weight"
+[1] 1.304479
+[1] "ASH smoking youth"
+[1] 583
+[1] "Weight"
+[1] 0.9642578
+[1] "STS smoking youth"
+[1] 134
+[1] "Weight"
+[1] 1.412368
+[1] "A.b. %"
+[1] 78.7186
+[1] "A.b. N of sample used"
+[1] 3357
+[1] "-----------------------------------------"
+[1] "# A.c. Non-smoking youth who have vaped #"
+[1] "-----------------------------------------"
+[1] "ASH Non-smoking youth who have vaped"
+[1] 240
+[1] "Weight"
+[1] 0.8732667
+[1] "STS Non-smoking youth who have vaped"
+[1] 128
+[1] "Weight"
+[1] 1.432021
+[1] "ASH Non-smoking youth who have never vaped"
+[1] 1985
+[1] "Weight"
+[1] 1.024161
+[1] "STS Non-smoking youth who have never vaped"
+[1] 224
+[1] "Weight"
+[1] 1.392115
+[1] "A.c. %"
+[1] 14.35096
+[1] "A.c. N of sample used"
+[1] 2577
+[1] "-------------------------------------------------------"
+[1] "# A.d. Non-smoking youth who vape because of flavours #"
+[1] "-------------------------------------------------------"
+[1] "ASH Non-smoking youth who vape because they like the flavours"
+[1] 23
+[1] "Weight"
+[1] 0.8746227
+[1] "STS Non-smoking youth who vape because they like the flavours"
+[1] 12
+[1] "Weight"
+[1] 1.18539
+[1] "ASH Non-smoking youth who vape for other reasons"
+[1] 203
+[1] "Weight"
+[1] 0.8597726
+[1] "STS Non-smoking youth who vape for other reasons"
+[1] 22
+[1] "Weight"
+[1] 1.404878
+[1] 1.404878
+[1] "A.d. %"
+[1] 14.32175
+[1] "A.d. N of sample used"
+[1] 260
+[1] "----------------------------------------------------"
+[1] "## B. HOW MANY YOUTH WHO VAPE SUBSEQUENTLY SMOKE? ##"
+[1] "----------------------------------------------------"
+[1] "# B.b.  Youth who vape, and smoke after vaping #"
+[1] "------------------------------------------------"
+[1] "ASH Vapers who tried vaping before smoking"
+[1] 144
+[1] "Weight"
+[1] 0.8887897
+[1] "STS Vapers who tried vaping before smoking"
+[1] 15
+[1] "Weight"
+[1] 1.269041
+[1] "ASH Vapers who have never smoked"
+[1] 238
+[1] "Weight"
+[1] 0.8730971
+[1] "STS Vapers who have never smoked"
+[1] 19
+[1] "Weight"
+[1] 1.156063
+[1] "B.b. %"
+[1] 39.0201
+[1] "B.b. N of sample used"
+[1] 416
+[1] "-----------------------------------------------------------------------------------------------------------"
+[1] "## C. TO WHAT EXTENT DO FLAVOURS DRAW IN ADULT SMOKERS WHO WOULD QUIT SMOKING USING VAPES AS A RESOURCE? ##"
+[1] "-----------------------------------------------------------------------------------------------------------"
+[1] "# C.b. Adult smokers who quit last year via e-cigarettes #"
+[1] "----------------------------------------------------------"
+[1] "ASH Adult Smokers + Recent Quitters"
+[1] 752
+[1] "STS Adult Smokers + Recent Quitters"
+[1] 1873
+[1] "ASH Adult Recent quitters, who used e-cigarettes as a quit resource"
+[1] 263
+[1] "Weight"
+[1] 0.987314
+[1] "STS Adult Recent quitters, who used e-cigarettes as a quit resource"
+[1] 78
+[1] "Weight"
+[1] 1.290467
+[1] "ASH Adult Recent quitters, who did not use e-cigarettes as a quit resource"
+[1] 489
+[1] "Weight"
+[1] 0.9842483
+[1] "STS Adult Recent quitters, who did not use e-cigarettes as a quit resource"
+[1] 1795
+[1] "Weight"
+[1] 1.128758
+[1] "C.b %"
+[1] 12.56461
+[1] "c.b. N of sample used"
+[1] 2625
+[1] "---------------------------------------------------------------------------------------------------------------"
+[1] "# C.c. Adult smokers, who vape, and who would not quit smoking/smoke more if flavoured vapes were unavailable #"
+[1] "---------------------------------------------------------------------------------------------------------------"
+[1] "------------------------------------------------------------------------------------------------------"
+[1] "ASH Adult Smokers"
+[1] 1695
+[1] "STS Adult Smokers"
+[1] 1641
+[1] "ASH Adult Smokers, who vape, and who would smoke more or return to smoking if flavours became unavailable"
+[1] 86
+[1] "Weight"
+[1] 1.026488
+[1] "STS Adult Smokers, who vape, and who would smoke more or return to smoking if flavours became unavailable"
+[1] 122
+[1] "Weight"
+[1] 1.282449
+[1] "ASH Everyone Else"
+[1] 455
+[1] "Weight"
+[1] 1.0138
+[1] "STS Everyone Else"
+[1] 141
+[1] "Weight"
+[1] 1.222841
+[1] "C.c %"
+[1] 58.52354
+[1] "C.c. N of sample used"
+[1] 804
+[1] "---------------------------------------------------------------------------------------------------------"
+[1] "## D. HOW MANY ADULT EX-SMOKERS WHO VAPE WOULD RELAPSE TO SMOKING IF FLAVOURED VAPES WERE UNAVAILABLE? ##"
+[1] "---------------------------------------------------------------------------------------------------------"
+[1] "# D.b. Adult ex-smokers who vape #"
+[1] "----------------------------------"
+[1] "ASH Adult Ex-Smokers"
+[1] 4232
+[1] "STS Adult Ex-Smokers"
+[1] 3333
+[1] "ASH Adult Ex-smokers - Current vapers"
+[1] 727
+[1] "Weight"
+[1] 1.043402
+[1] "STS Adult Ex-smokers - Current vapers"
+[1] 438
+[1] "Weight"
+[1] 1.162189
+[1] "ASH Adult Ex-smokers who are not current vapers"
+[1] 2511
+[1] "Weight"
+[1] 1.065889
+[1] "STS Adult Ex-smokers who are not current vapers"
+[1] 2663
+[1] "Weight"
+[1] 0.8995782
+[1] "D.b. %"
+[1] 19.99478
+[1] "D.b. N of sample used"
+[1] 6339
+[1] "----------------------------------------------------------------------------------"
+[1] "# D.c. Adult Ex-smokers who vape and would relapse if flavoured vapes were unavailable #"
+[1] "----------------------------------------------------------------------------------------"
+[1] "------------------------------------------------------------------------------------------------------"
+[1] "ASH Adult Ex-Smokers"
+[1] 4232
+[1] "ASH Adult Ex-Smokers who would relapse without flavours"
+[1] 70
+[1] "Weight"
+[1] 1.065624
+[1] "STS Adult Ex-Smokers who would relapse without flavours"
+[1] 36
+[1] "Weight"
+[1] 1.381232
+[1] "ASH Adult Ex-Smokers who would NOT relapse without flavours"
+[1] 652
+[1] "Weight"
+[1] 1.042493
+[1] "STS Adult Ex-Smokers who would NOT relapse without flavours"
+[1] 260
+[1] "Weight"
+[1] 1.187123
+[1] "D.c. %"
+[1] 11.17289
+[1] "D.c. N of sample used"
+[1] 1018
